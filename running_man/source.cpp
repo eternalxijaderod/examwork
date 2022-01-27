@@ -24,7 +24,7 @@ int main()
 		return -1;
 	}
 
-	Sprite m1(M1);   // Sprite это некоторый обьект обладающий координатами и размерами (мы берем текстуру Sky и помещаем ее внутрь этого обьекта)
+	Sprite m1(M1);   // Sprite ГЅГІГ® Г­ГҐГЄГ®ГІГ®Г°Г»Г© Г®ГЎГјГҐГЄГІ Г®ГЎГ«Г Г¤Г ГѕГ№ГЁГ© ГЄГ®Г®Г°Г¤ГЁГ­Г ГІГ Г¬ГЁ ГЁ Г°Г Г§Г¬ГҐГ°Г Г¬ГЁ (Г¬Г» ГЎГҐГ°ГҐГ¬ ГІГҐГЄГ±ГІГіГ°Гі Sky ГЁ ГЇГ®Г¬ГҐГ№Г ГҐГ¬ ГҐГҐ ГўГ­ГіГІГ°Гј ГЅГІГ®ГЈГ® Г®ГЎГјГҐГЄГІГ ) / Sprite is some object that has coordinates and dimensions (we take the Sky texture and put it inside this object)
 	Sprite m2(M2);
 	Sprite m3(M3);
 	Sprite m4(M4);
